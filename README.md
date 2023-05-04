@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 <HR>
-<B>[Flutter Apps(https://github.com/VedatBiner/flutter-codes/)]</B>
+<B><A href="https://github.com/VedatBiner/flutter-codes/">Flutter Apps</A></B>
 
 <!---
 VedatBiner/VedatBiner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
