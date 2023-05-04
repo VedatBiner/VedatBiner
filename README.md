@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 <HR>
-<B><A href="https://github.com/VedatBiner/flutter-codes/">Flutter Apps</A></B>
+<B><A href="https://github.com/VedatBiner/flutter-codes/">Flutter Apps</A></B> - 
 <B><A href="https://github.com/VedatBiner/flutter-codes/widgets_templates/">Flutter Widget Templates</A></B>
 
 <!---
