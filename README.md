@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Solidity and Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-<B>[Flutter Apps](https://github.com/VedatBiner/flutter-codes/)</B>
+<HR>
+<B>[Flutter Apps](https://github.com/VedatBiner/flutter-codes/) | </B> 
 <B>[Flutter Widget Templates](https://github.com/VedatBiner/flutter-codes/widgets_templates/)</B>
 
 <!---
